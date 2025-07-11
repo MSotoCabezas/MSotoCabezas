@@ -1,16 +1,54 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Martín Soto
 
-<!--
-**MSotoCabezas/MSotoCabezas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Talca, Chile**
 
-Here are some ideas to get you started:
+📧 **Contacto:** msotocabezas@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 **Formación Académica**
+
+- 📌 **Ingeniería en Estadística**  
+  _Universidad Católica del Maule_ (Titulación esperada: 2026)
+
+---
+
+### 💡 **Áreas de Interés**
+
+- 📊 Análisis de Datos
+- 🧠 Machine Learning
+- 📐 Inferencia Estadística
+- 📈 Estadística Aplicada
+
+---
+
+### 🛠️ **Tecnologías y Herramientas**
+
+- **Lenguajes:**
+  - `R` | `Python`
+
+- **Herramientas principales:**
+  - `Shiny` • `ggplot2` • `pandas`
+
+---
+
+### 🚧 **Proyectos en desarrollo**
+
+Actualmente estoy trabajando en:
+
+- 🧠 **Tesis sobre análisis EEG en R**  
+  _Implementación de técnicas estadísticas avanzadas para procesamiento de señales EEG._
+
+---
+
+### 🎯 **Objetivos Laborales**
+
+Busco oportunidades como **Ingeniero Estadístico o Investigador**, especialmente interesado en sectores:
+
+- 🏥 Salud
+- 📚 Academia
+- 🔬 Investigación científica
+- 🏛️ Sector público
+
+¡Estoy abierto a proyectos que permitan crecer y aplicar mis conocimientos estadísticos para generar valor e impacto!
+
