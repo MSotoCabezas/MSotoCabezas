@@ -1,8 +1,8 @@
 ### ¡Hola! Soy Martín Soto
 
-📍 **Talca, Chile**
+ **Talca, Chile**
 
-📧 **Contacto:** msotocabezas@gmail.com
+ **Contacto:** msotocabezas@gmail.com
 
 ---
 
@@ -13,16 +13,16 @@
 
 ---
 
-### 💡 **Áreas de Interés**
+###  **Áreas de Interés**
 
-- 📊 Análisis de Datos
-- 🧠 Machine Learning
-- 📐 Inferencia Estadística
-- 📈 Estadística Aplicada
+-  Análisis de Datos
+-  Machine Learning
+-  Inferencia Estadística
+-  Estadística Aplicada
 
 ---
 
-### 🛠️ **Tecnologías y Herramientas**
+###  **Tecnologías y Herramientas**
 
 - **Lenguajes:**
   - `R` | `Python`
